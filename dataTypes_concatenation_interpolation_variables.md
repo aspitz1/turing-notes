@@ -35,25 +35,7 @@ console.log(3);
 ```
 ## Booleans
 
-A boolean is **true** or **false**. You can write two things with a comparison operator to determine if they are true or false.
-
-| Operator | Description |
-| -------- | ----------- |
-| `==` | Equal |
-| `!=` | Not Equal |
-| `===` | Strictly Equal |
-| `!==` | Strictly Not Equal |
-| `>` | Greater Than |
-| `>=` | Greater Then or Equal |
-| `<` | Less Then |
-| `>=` | Less Then or Equal |
-
- ```js
- console.log(3 != 4);
- console.log("hello" === "Hello");
- console.log(7 > 2);
-
- ```
+A boolean is **true** or **false**, or **0** **1**.
 
 # Variables
 
