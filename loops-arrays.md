@@ -1,6 +1,14 @@
-## Arrays
+# Arrays
 
-Arrays are variables with a list of values that are wrapped in square brackets instead of parenthesis. Each value in the array has a position starting from zero. The desired value is referenced by its position in the array. The following is syntax that enables interaction with the values.
+Arrays are variables that can have a list of values. The list of values are wrapped in square brackets instead of parenthesis and separated by a comma. The values are wrapped in square brackets and separated by commas. The values can be strings, numbers, functions, objects and even other arrays. It can be different data types in the same array. The values of the array are each assigned a position starting from zero. To call a value in an array you would use its position.
+```js
+var dresses = ["sun", "formal", "maxi"];
+
+```
+
+# Array Method
+
+Array method gives you a way to interact with with the values stored in an array. Different methods allow you to add and remove values from the beginning, end or even from within the array list.
 
 ## Pop
 `pop()` Is a method that removes the last element in an array and returns it when called. If you call `pop()` on an array that is empty the return will be `undefined`. The method changes the `length` of the array. You can also use `pop()` as a value in a variable.

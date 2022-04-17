@@ -23,11 +23,11 @@
 | Node | Open source development platform for executing JavaScript code server-side |
 | Comparison Operators | operator used to determine how to operands should be compared |
 | Logical Operators | AND and OR operators compare two operands to make a true or false statement |
-| Condition| |
+| Condition | something that needs to be met |
 | Conditionals | determine whether or not pieces of code can run |
 | If Statements | most common type of conditional, the if statement only runs if the condition enclosed in parentheses () is truthy |
 | Array | object that allows for multiple values to be stored |
-| Element | ~the most general base class from which all element objects in a Document inherit~ |
+| Element | something inside an array, an array value |
 | Index | values location in an array |
-| Array method | set of values in a variable enclosed in square brackets |
+| Array method | special functions that belong to the array class |
 | Loop | offers quick way to do something repeatedly |
