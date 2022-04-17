@@ -35,7 +35,7 @@ console.log(3);
 ```
 ## Booleans
 
-A boolean is **true** or **false**, or **0** **1**.
+A boolean is **true** or **false**, or **0** or **1**.
 
 # Variables
 
